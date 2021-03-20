@@ -18,6 +18,7 @@
 
 import random
 
+
 app.started = False
 app.finished = False
 # Player icons
