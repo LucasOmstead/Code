@@ -46,4 +46,3 @@ names = ['a', 'b', 'c', 'c', 'c', 'd', 'c', 'e']
 for counter in range(0, names.count('c')):
   del names[names.index('c')]
 print(names)
-print(names[0])
